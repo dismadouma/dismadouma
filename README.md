@@ -8,13 +8,32 @@
 
 ### Full Stack Developer • System Builder • Clean Code
 
-<pre>
-SYSTEM STATUS : ONLINE
-ACCESS LEVEL  : ROOT
-USERNAME      : DISMADOUMA
-     ROLE          : FULL STACK DEVELOPER
-</pre>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="left"><code>SYSTEM STATUS</code></td>
+    <td align="center"><code>:</code></td>
+    <td align="left"><code>ONLINE</code></td>
+  </tr>
+  <tr>
+    <td align="left"><code>ACCESS LEVEL</code></td>
+    <td align="center"><code>:</code></td>
+    <td align="left"><code>ROOT</code></td>
+  </tr>
+  <tr>
+    <td align="left"><code>USERNAME</code></td>
+    <td align="center"><code>:</code></td>
+    <td align="left"><code>DISMADOUMA</code></td>
+  </tr>
+  <tr>
+    <td align="left"><code>ROLE</code></td>
+    <td align="center"><code>:</code></td>
+    <td align="left"><code>FULL STACK DEVELOPER</code></td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 ---
