@@ -1,37 +1,69 @@
 <div align="center">
 
-![DISMADOUMA Banner](./assets/banner.svg)
+<img src="./assets/banner.svg" width="100%" alt="DISMADOUMA Banner" />
+
+<br>
 
 # DISMADOUMA
 
-### Hacker Theme Developer
+### Full Stack Developer • System Builder • Clean Code
 
-```txt
+<pre>
 SYSTEM STATUS : ONLINE
 ACCESS LEVEL  : ROOT
 USERNAME      : DISMADOUMA
 ROLE          : FULL STACK DEVELOPER
-```
+</pre>
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
 ```bash
 ┌──(root㉿dismadouma)-[~/profile]
 └─$ whoami
+```
 
+```txt
 Name      : dismadouma
-Focus     : Web Development, Backend, API, Database, Bot Development
-Mindset   : Build clean systems. Debug everything. Never stop learning.
+Role      : Full Stack Developer
 Status    : Online
+Focus     : Web Development, Backend, API, Database, Automation, Bot Development
+Mission   : Build clean, powerful, elegant, and secure systems
 ```
 
 ---
 
-## Skills
+## ⚡ Tech Stack
+
+<table align="center">
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>HTML, CSS, JavaScript, TypeScript, React, Next.js</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express.js, PHP, Laravel, Python, Flask</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MySQL, PostgreSQL, MongoDB, SQLite, Redis</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, VS Code, Linux, Docker, Cloudflare</td>
+  </tr>
+  <tr>
+    <td><b>Bot Dev</b></td>
+    <td>Discord Bot, Telegram Bot, Automation Script</td>
+  </tr>
+</table>
+
+---
+
+## 📊 Skill Progress
 
 ```txt
 HTML        ████████████████████ 100%
@@ -50,24 +82,14 @@ Automation  ████████████████████ 100%
 
 ---
 
-## Tech Stack
-
-```txt
-Frontend  : HTML, CSS, JavaScript, TypeScript, React, Next.js
-Backend   : Node.js, Express.js, PHP, Laravel, Python, Flask
-Database  : MySQL, PostgreSQL, MongoDB, SQLite, Redis
-Tools     : Git, GitHub, VS Code, Linux, Docker, Cloudflare
-Bot Dev   : Discord Bot, Telegram Bot, Automation Script
-```
-
----
-
-## Hacker Console
+## 🖥️ Developer Console
 
 ```bash
 ┌──(dismadouma㉿github)-[~/project]
 └─$ sudo start system
+```
 
+```txt
 [ OK ] Loading frontend module
 [ OK ] Loading backend module
 [ OK ] Connecting database
@@ -78,7 +100,7 @@ Bot Dev   : Discord Bot, Telegram Bot, Automation Script
 
 ---
 
-## What I Build
+## 🚀 What I Build
 
 ```txt
 [+] Website Application
@@ -90,17 +112,18 @@ Bot Dev   : Discord Bot, Telegram Bot, Automation Script
 [+] Database System
 [+] Payment Integration
 [+] Clean UI System
+[+] Full Stack Project
 ```
 
 ---
 
-## Code Philosophy
+## 🧬 Code Philosophy
 
 ```js
 const dismadouma = {
-  mode: "hacker",
-  skill: "full stack developer",
-  code: "clean, fast, and secure",
+  role: "full stack developer",
+  code: "clean, fast, secure",
+  mindset: "debug everything",
   mission: "build powerful systems"
 };
 
@@ -109,12 +132,22 @@ while (true) {
   build();
   debug();
   improve();
+  deploy();
 }
 ```
 
 ---
 
 <div align="center">
+
+## 💻 Terminal Quote
+
+```txt
+I do not just write code.
+I build systems.
+```
+
+<br>
 
 ```txt
 THANK YOU FOR VISITING MY PROFILE
